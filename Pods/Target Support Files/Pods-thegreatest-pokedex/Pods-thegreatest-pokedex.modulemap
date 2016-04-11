@@ -1,0 +1,6 @@
+framework module Pods_thegreatest_pokedex {
+  umbrella header "Pods-thegreatest-pokedex-umbrella.h"
+
+  export *
+  module * { export * }
+}
